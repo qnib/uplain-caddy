@@ -1,0 +1,2 @@
+{$SITE_HOST}:{$SITE_PORT}
+root {$SITE_ROOT}
